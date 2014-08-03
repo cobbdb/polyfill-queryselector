@@ -27,10 +27,10 @@
     }
     style = document.createStyleSheet();
 
-    document.querySelectorAll = function (selector) {
+    document.querySelectorAll = document.body.querySelectorAll = function (selector) {
         return select(selector, Infinity);
     };
-    document.querySelector = function (selector) {
+    document.querySelector = document.body.querySelector = function (selector) {
         return select(selector, 1)[0] || null;
     };
 }());
