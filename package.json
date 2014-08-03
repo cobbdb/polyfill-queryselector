@@ -1,5 +1,5 @@
 {
-  "name": "queryselector",
+  "name": "polyfill-queryselector",
   "version": "1.0.0",
   "description": "Polyfill querySelector and querySelectorAll for IE7 and IE6.",
   "main": "querySelector.js",
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cobbdb/queryselector.git"
+    "url": "https://github.com/cobbdb/polyfill-queryselector.git"
   },
   "keywords": [
     "polyfill",
@@ -21,8 +21,8 @@
   "author": "Dan Cobb <cobbdb@gmail.com> (http://www.github.com/cobbdb)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cobbdb/queryselector/issues"
+    "url": "https://github.com/cobbdb/polyfill-queryselector/issues"
   },
-  "homepage": "https://github.com/cobbdb/queryselector",
+  "homepage": "https://github.com/cobbdb/polyfill-queryselector",
   "devDependencies": {}
 }
