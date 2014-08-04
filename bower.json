@@ -1,0 +1,31 @@
+{
+  "name": "polyfill-queryselector",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cobbdb/polyfill-queryselector",
+  "authors": [
+    "cobbdb <cobbdb@gmail.com>"
+  ],
+  "description": "Polyfill querySelector and querySelectorAll for IE7 and IE6.",
+  "main": "querySelector.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "polyfill",
+    "ie6",
+    "ie7",
+    "querySelector",
+    "querySelectorAll",
+    "old",
+    "legacy",
+    "internetexplorer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
